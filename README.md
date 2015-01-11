@@ -1,2 +1,4 @@
-# LDCAndroid
-LDC Android Application.
+LDCMediaGoblin
+==============
+
+LDC Media Goblin Android App
